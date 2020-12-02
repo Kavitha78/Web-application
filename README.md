@@ -1,2 +1,2 @@
 
-A Webapp for diagnosing colour blindness and hearing disabilities 
+A Webapp for diagnosing hearing disabilities and colour blindness 

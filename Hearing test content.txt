@@ -27,9 +27,22 @@ about Hearing impairment= [
                           This test is a self-assessment tool to measure hearing difficulties and problems. This test is for informational purposes only. If you believe you may have a 
                           hearing impairment please consult an ENT Doctor or Otolaryngologist. Results may vary depending on many factors including the type and quality of your device
                           display and the noise in your surroundings. 
+
+			  Hearing Loss Test:
+
+	 	 	  For hearing loss we made a test where users identify words they hear under different volumes and levels of background noise. The user begins by selecting their 	 	
+			  language of choice, either English, Hindi, Kannada, Tamil, or Telugu. The language names are written in their native format to make it easy for people to choose. 
+		          They are then shown a screen with 9 icons, a volume control, and a play audio button. When the user hits play, they listen to the word that’s spoken and then select the icon that 	 	
+			  represents that word. The user can play the audio as many times as they need. If the user needs to, they can increase the volume until they hear the word. After they click an 
+			  icon, they hit submit and a new audio is loaded. They repeat playing the audio and selecting the proper icon until they have listened to all 9 audio files. At the end the test 	 	
+			  gives them a score out of 8 saying how many words they were able to identify correctly. 
 				
-			  The website has been designed in four regional languages Tamil, Telugu, Hindi and Kannada so that it can benefit people living in rural areas of India. 
-                          People who cannot understand Engligh can take this online hearing test in their local language.  
+			  Hearing Different Frequencies Test:
+	 	        
+                          The user is shown a screen with a play-audio button as well as submit and pass buttons. When the user clicks play, the application waits for a random number of 	 	
+                          seconds from 1 to 7 and then play a tone at a specific frequency. When the user hears the tone, they click submit. If they click Submit within two seconds after the tone plays, 		
+                          they get a point. A two second window is used to give the user time to react. If they are too late or early, or if they click pass, it does not give them a point. A new tone is then 	 	
+                          loaded and they repeat until they receive a score.
 
 
                  	  Before taking this online test you should:
@@ -39,8 +52,6 @@ about Hearing impairment= [
                           Turn the volume to a level where it’s comfortable for you
 
                           Once you’re relaxed and confident in your surroundings, feel free to begin.
-
-
 
 
           ]
